@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACpB,OAAO","file":"component---src-pages-index-js-fb3528b86d998e61289a.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n    return <h1>Roberto Orellana</h1>\n}"],"sourceRoot":""}

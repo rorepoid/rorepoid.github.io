@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var r=t("q1tI"),o=t.n(r);function u(){return o.a.createElement("h1",null,"Roberto Orellana")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-fb3528b86d998e61289a.js.map
